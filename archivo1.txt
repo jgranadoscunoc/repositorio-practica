@@ -1,0 +1,13 @@
+Este es un archivo de practica.
+
+Solo contengo texto normal y por eso mi extension es txt
+
+El codigo fuente tambien es texto normal pero contiene estructuras especificas para un lenguaje de programacion.
+
+El codigo fuente puede ser interpretado o compilado, ya lo verán en cursos como Lenguajes Formales y de Programación, Compiladores 1 y Compiladores 2 :D
+
+Java es compilado, html es interpretado asi como Python
+
+Alguien que me modifique para empezar la practica.
+
+PRIMERA MODIFICACION
