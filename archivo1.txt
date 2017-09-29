@@ -1,5 +1,7 @@
 Este es un archivo de practica.
 
+//SE MODIFICÓ ESTA LINEA
+
 Solo contengo texto normal y por eso mi extension es txt
 
 El codigo fuente tambien es texto normal pero contiene estructuras especificas para un lenguaje de programacion.
